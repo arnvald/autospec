@@ -9,6 +9,7 @@ require 'autospec/reload_css'
 require 'autospec/reload_css'
 require 'autospec/simple_runner'
 require 'autospec/spork_runner'
+require 'autospec/railtie'
 
 module Autospec
   # Your code goes here...
